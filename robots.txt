@@ -1,0 +1,8 @@
+User-agent: *
+Host: https://graph-in.ru
+Sitemap: https://graph-in.ru/sitemap.xml
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Disallow: /scss
+Disallow: /img
